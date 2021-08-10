@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/Raashii">Raashii</a> to make it p
 
 ----
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raashii&show_icons=true&theme=dark&locale=en&layout=compact" alt="Raashii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raashii&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Raashii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raashii&show_icons=true&theme=tokyonight&locale=en" alt="Raashii" /></p>
 
