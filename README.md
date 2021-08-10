@@ -8,5 +8,7 @@
   <p align="center">
 <a href="https://github.com/Raashii"><img title="Author" src="https://img.shields.io/badge/Author-Raashii?color=black&style=for-the-badge&logo=github"></a>
 </p>
-![](https://komarev.com/ghpvc/?username=Raashii&color=dc143c&style=flat-square)
+  <p align="center">
+<a href="#"><img title="Zara" src="https://komarev.com/ghpvc/?username=Raashii&color=grey&style=flat-square"></a>
+</p>
 
