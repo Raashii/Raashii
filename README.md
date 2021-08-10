@@ -8,14 +8,7 @@
 </p>
   <p align="center">
 <a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-Raashii/Zara?color=black&style=for-the-badge&logo=github"></a>
-</p>
-</div>
-<p align="center">
-Project created by <a href="https://github.com/Raashii">Raashii</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
+
 </p>
 
 ----
