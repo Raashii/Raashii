@@ -11,4 +11,7 @@
   <p align="center">
 <a href="#"><img title="Zara" src="https://komarev.com/ghpvc/?username=Raashii&color=grey&style=plastic"></a>
 </p>
-
+## My GitHub stats 🏋️‍
+<a href="https://github.com/Raashii">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=Raashii&bg_color=3,C393A8,F3C8E3&title_color=fff&text_color=fff">
+</a>
