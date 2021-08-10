@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-<div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/zRQvzPc/IMG-20210730-104656-524.webp" width="200" height="200"/>
-  <p align="center">
-<a href="#"><img title="Zara" src="https://img.shields.io/badge/-Raashii-white?&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://github.com/Raashii"><img title="Author" src="https://img.shields.io/badge/Author-Raashii?color=black&style=for-the-badge&logo=github"></a>
-</p>
-  <p align="center">
-<a href="#"><img title="Zara" src="https://komarev.com/ghpvc/?username=Raashii&color=grey&style=plastic"></a>
-</p>
+<img align="center" src="https://raw.githubusercontent.com/Raashii/Raashii/main/assets/banner9.gif"/>
+
 ## My GitHub stats 🏋️‍
 <a href="https://github.com/Raashii">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=Raashii&bg_color=3,C393A8,F3C8E3&title_color=fff&text_color=fff">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=Raashii&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff">
 </a>
+<a href="https://github.com/KarthikNayak024/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Raashii&layout=compact&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff"" />
+
+
+## This week I spent my time on 📊
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Raashii&bg_color=30,C393A8,F3C8E3&text_color=fff&title_color=fff" />
+</a>
+</br>
