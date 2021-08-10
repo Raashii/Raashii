@@ -1,7 +1,7 @@
 
 <div align="center">
   <p align="center">
-<img src="https://i.ibb.co/zRQvzPc/IMG-20210730-104656-524.webp" alt="webp" width="250" height="250"/>
+<img src="https://i.ibb.co/zRQvzPc/IMG-20210730-104656-524.webp" alt="webp" width="150" height="150"/>
 </p>
  <p align="center">
 <a href="#"><img title="»»»Raashii«««" src="https://img.shields.io/badge/Raashii-white?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
