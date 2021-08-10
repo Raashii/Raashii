@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<img align="center" src="https://raw.githubusercontent.com/Raashii/Raashii/main/assets/banner9.gif"/>
+<div align="center">
+  <p align="center">
+<img src="https://i.ibb.co/zRQvzPc/IMG-20210730-104656-524.webp" alt="webp" width="128" height="128"/>
+</p>
+ <p align="center">
+<a href="#"><img title="Raashii" src="https://img.shields.io/badge/Raashii-white?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-Raashii/Zara?color=black&style=for-the-badge&logo=github"></a>
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/Raashii">Raashii</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
 
-## My GitHub stats 🏋️‍
-<a href="https://github.com/Raashii">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=Raashii&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff">
-</a>
-<a href="https://github.com/Raashii/github-readme-stats">
-<img align="center" src="https://github-readme-stats.Raashii.vercel.app/api/top-langs/?username=Raashii&layout=compact&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff"" />
+----
+<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raashii&show_icons=true&theme=dark&locale=en&layout=compact" alt="Raashii" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raashii&show_icons=true&theme=tokyonight&locale=en" alt="Raashii" /></p>
 
-## This week I spent my time on 📊
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Raashii&bg_color=30,C393A8,F3C8E3&text_color=fff&title_color=fff" />
-</a>
-</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raashii&theme=tokyonight" alt="Raashii" /></p>
+</p>
