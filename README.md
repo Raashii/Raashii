@@ -12,9 +12,3 @@
 </p>
 
 ---
-<p align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raashii&show_icons=true&theme=tokyonight&locale=en" alt="Raashii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raashii&theme=tokyonight" alt="Raashii" /></p>
-</p>
